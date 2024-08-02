@@ -1,3 +1,3 @@
 Happy contribution for all
 
-This repository about tools visualization map and develop with python. Thanks for all contributor
+This repository about cli tools visualization map and develop with python, feel free to contribute. Thanks for all contributor
